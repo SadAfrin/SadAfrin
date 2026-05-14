@@ -14,14 +14,19 @@ I am a CSE student passionate about web development, AI, and data-driven technol
 - 💡 Practicing problem solving and improving programming skills.
 
 ## Skills
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,js,python,html,css,git,c,cpp,mysql" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,js,typescript,python,html,css,git,c,mysql" />
+</p>
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadAfrin&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SadAfrin&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+  <img src="https://streak-stats.demolab.com?user=SadAfrin&theme=radical" alt="GitHub Streak" height="180px" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SadAfrin&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SadAfrin&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadAfrin&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</p>
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/sadiaafrin-/) •
