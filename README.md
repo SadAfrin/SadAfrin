@@ -25,7 +25,5 @@ I am a CSE student passionate about web development, AI, and data-driven technol
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/sadiaafrin-/) •
-
 [GitHub](https://github.com/SadAfrin) •
-
 [Email](mailto:2000afrinsadia@gmail.com)
