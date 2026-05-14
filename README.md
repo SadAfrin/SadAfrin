@@ -1,16 +1,31 @@
-## Hi there 👋
+![Banner](https://github.com/user-attachments/assets/f6caa52c-a882-45b2-9821-0d17ced04304)
 
-<!--
-**SadAfrin/SadAfrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm SADIA A 👋
+### Aspiring Web Developer | AI & Data Science Enthusiast
 
-Here are some ideas to get you started:
+## About Me
+I am a CSE student passionate about web development, AI, and data-driven technologies. I enjoy building clean and responsive web applications while continuously exploring modern technologies and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Up To
+- 🚀 Exploring **Next.js** and modern frontend and backend development.
+- 🤖 Learning **Data Science, and AI fundamentals**.
+- 🛠️ Working on web-based academic and personal projects using the **MERN Stack**.
+- 📚 Deepening my knowledge in **Cryptography and Network Security**.
+- 💡 Practicing problem solving and improving programming skills.
+
+## Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,js,python,html,css,git,c,cpp,mysql" />
+</p>
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadAfrin&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SadAfrin&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SadAfrin&layout=compact&theme=radical)
+
+## Connect with Me
+[LinkedIn](https://www.linkedin.com/in/sadiaafrin-/) • 
+[GitHub](https://github.com/SadAfrin) •
+[Email](mailto:2000afrinsadia@gmail.com)
