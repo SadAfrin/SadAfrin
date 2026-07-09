@@ -42,4 +42,4 @@ I am a Computer Science & Engineering graduate with a strong academic standing, 
 ## 🌐 Connect with Me
 * 💼 **LinkedIn:** [linkedin.com/in/sadiaafrin--](https://www.linkedin.com/in/sadiaafrin-/)
 * 🐙 **GitHub:** [github.com/SadAfrin](https://github.com/SadAfrin)
-* 📧 **Email:** [2000afrinsadia@gmail.com](mailto:2000afrinsadia@gmail.com)
+* 📧 **Email:** [afrinsadia.wd@gmail.com](mailto:afrinsadia.wd@gmail.com)
