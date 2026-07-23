@@ -3,7 +3,7 @@
 # Hi, I'm Sadia Afrin 👋
 ### Frontend Developer
 
-## 👩‍💻 About Me
+## About Me
 I am a Computer Science & Engineering graduate with a strong academic standing, maintaining a CGPA of 3.87/4.00. Driven by a passion for web development and software engineering, I specialize in building clean, highly responsive user interfaces. I enjoy transforming complex problems into elegant digital solutions while continuously expanding my technical expertise.
 
 ## 🚀 Current Activities
