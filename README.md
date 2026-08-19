@@ -1,7 +1,7 @@
 ![Banner](https://github.com/user-attachments/assets/f6caa52c-a882-45b2-9821-0d17ced04304)
 
 # Hi, I'm Sadia Afrin 👋
-### Frontend Developer
+### Web Developer
 
 ## About Me
 I am a Computer Science & Engineering graduate with a strong academic standing, maintaining a CGPA of 3.87/4.00. Driven by a passion for web development and software engineering, I specialize in building clean, highly responsive user interfaces. I enjoy transforming complex problems into elegant digital solutions while continuously expanding my technical expertise.
