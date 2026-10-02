@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/f6caa52c-a882-45b2-9821-0d17ced04304)
+<img width="3168" height="792" alt="Sadia_Afrin_LinkedIn_Banner" src="https://github.com/user-attachments/assets/62132347-cc02-43a6-a1de-4e6e86554f10" />
 
 # Hi, I'm Sadia Afrin 👋
 ### Full-Stack Developer
