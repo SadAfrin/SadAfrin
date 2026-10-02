@@ -9,24 +9,24 @@ I am a Computer Science & Engineering graduate with a strong academic standing, 
 ## 🚀 Current Activities
 - 🧠 **Exploring Backend Architectures and Data Science fundamentals** to build intelligent, scalable systems.
 - 🛠️ Developing production-ready full-stack applications utilizing the MERN stack and secure authentication.
-- 🗺️ **Working on a tourism website** alongside other web-based marketplace platforms.
+- 🗺️ **Working on an e-commerce website** alongside other web-based marketplace platforms.
 - 🔐 Deepening my knowledge in **Cryptography, Network Security, and Database Management**.
 
 ## 🛠️ Skills & Technologies
 
 ### 💻 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,tailwind,html" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" alt="Backend Skills" />
 </p>
 
-### 📊 Data Science & Languages
+### 📊 Data Science & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,c,git" alt="Data Science and Tools" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,powerbi" alt="Data Science and Tools" />
 </p>
 
 ## 📊 Relevant GitHub Stats
